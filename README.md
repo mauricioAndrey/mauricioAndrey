@@ -2,7 +2,7 @@
 - 👀 I’m interested in One Piece
 - 🌱 I’m currently learning Japanese
 - 💞️ I’m looking to collaborate on Something
-- 📫 How to reach me: Good Luck
+- 📫 How to reach me: Hardware Lab
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I watched One Piece 4 times, and I'm still watching
 
