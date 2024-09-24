@@ -1,14 +1,13 @@
-
-<div>
-  <a href="https://github.com/mayresAndrey" target="_blank"><img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div> <br>
-
 - 👋 Hi, I’m @mayresAndrey
+- 😄 Pronouns: He/Him
 - 👀 I’m interested in One Piece
 - 🌱 I’m currently learning Japanese
 - 💞️ I’m looking to collaborate on Robots
-- 📫 How to reach me: <a href="mailto:mayres.andrey@gmail.com" target="_blank"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-- 😄 Pronouns: He/Him
+- 📫 How to reach me:
+  - <div>
+      <a href="mailto:mayres.andrey@gmail.com" target="_blank"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="https://github.com/mayresAndrey" target="_blank"><img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+    </div> <br>
 - ⚡ Fun fact: I watched One Piece 4 times, and I'm still watching
 
 <div style="display:inline_block"><br>
