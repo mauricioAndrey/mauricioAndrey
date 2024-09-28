@@ -20,9 +20,9 @@
 </div>
 ---
 <div>
-  <a href="https://github.com/mayresAndrey">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mayresAndrey&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayresAndrey&layout=compact&theme=dark&langs_count=16"/>
+  <a href="https://github.com/mauricioAndrey">
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=mauricioAndrey&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricioAndrey&layout=compact&theme=dark&langs_count=16"/>
   </a>
 </div>
 
