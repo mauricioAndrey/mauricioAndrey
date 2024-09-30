@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I watched One Piece 4 times, and I'm still watching
 - 📫 How to reach me:
   - <div>
-      <a href="mailto:mayres.andrey@gmail.com" target="_blank"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="mailto:mauricioandreyss@gmail.com" target="_blank"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://github.com/mauricioAndrey" target="_blank"><img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/maur%C3%ADcio-andrey-203b50284/" target="_blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </div> <br>
